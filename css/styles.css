@@ -1,0 +1,86 @@
+.header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 34px 32px;
+}
+
+.navigation ul{
+  display: flex;
+  gap: 24px;
+}
+
+.nav a{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0.1px;
+  color: black;
+}
+
+.bttn{
+  width: 100px;
+  height: 48px;
+  border-radius: 32px;
+  border: none;
+  background-color: #000000;
+  color: #F3F3F3;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+}
+
+.first-section{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 64px 165px;
+}
+
+.left-div1{
+  padding: 134px 130px;
+}
+
+.title{
+  font-weight: 900px;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: -1px;
+  padding-bottom: 24px;
+}
+
+.span{
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 0px;
+}
+
+.bottom-div{
+  display: flex;
+  gap: 20px;
+  padding-top: 44px;
+}
+
+.bttn2{
+  width: 100px;
+  height: 48px;
+  border-radius: 32px;
+  border: none;
+  background-color: #000000;
+  color: #F3F3F3;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.1px;
+  padding: 12px 24px;
+}
+
+
+.text{
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0px;  
+}
