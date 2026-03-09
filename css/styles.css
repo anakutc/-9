@@ -92,9 +92,8 @@
   background-color: #F3F3F3;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 30px;
-  padding: 64px 150px;
+  justify-content: center;
+ 
 }
 
 .feature-elements{
@@ -105,7 +104,9 @@
 }
 
 .box{
-  width: 350px;
+  width: 360px;
+  height: 116px;
+   padding: 30px;
 }
 
 .span2{
